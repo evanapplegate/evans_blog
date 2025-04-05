@@ -10,6 +10,8 @@ A simple flat-file blog system using Markdown files that can be deployed directl
 - `styles.css` contains all styling
 - `blog.js` handles post loading and navigation
 
+Last updated: 2025-04-05
+
 ## Adding New Posts
 1. Create a new Markdown file in the `posts` directory (e.g., `new-post.md`)
 2. Add your blog post content to the file using Markdown syntax
