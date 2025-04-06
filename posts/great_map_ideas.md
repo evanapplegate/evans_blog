@@ -1,4 +1,4 @@
-# 365 Days of Great Ideas for Your Map Business
+# 365 days of great ideas for your map business
 
 My mother, the ultimate hustler, grossed like ~$2m selling small business advice. Her small business: selling small business advice. Very meta. I discovered this 22-year-old unopened idea-a-day desk calendar and it inspired me to write some "great ideas." Remember: one solid trial is worth a billion "great ideas."
 

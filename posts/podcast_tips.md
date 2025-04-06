@@ -1,4 +1,4 @@
-# Podcasting Tips
+# Podcasting tips
 
 30 eps of [Very Expensive Maps](https://veryexpensivemaps.com) later, I’ve learned:
 

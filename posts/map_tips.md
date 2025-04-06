@@ -1,4 +1,4 @@
-# What I've Learned During 13 Years of Mapmaking
+# What I've learned during 14 years of mapmaking
 
 1. You're not smarter than time. No reinventing wheels because you're not that good.
 

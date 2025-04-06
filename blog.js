@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     { title: '2060: 62 Million Old, Lonely, Broke Millennials', file: 'posts/millenials_old.md' },
     { title: 'Podcasting Tips', file: 'posts/podcast_tips.md' },
     { title: 'Shoutout machine learning', file: 'posts/shoutout_ML.md' },
-    { title: 'Trying To Heal In A Workplace', file: 'posts/trying_to_heal_in_a_workplace.md' }
+    { title: 'The American Hospital: Trying to Heal in Someone\'s Workplace', file: 'posts/trying_to_heal_in_a_workplace.md' }
   ];
   
   // Track current post index

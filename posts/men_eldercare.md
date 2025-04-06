@@ -1,4 +1,4 @@
-# More men makes eldercare easier
+# More men eases eldercare
 
 Men, and women who needed men, often die old and enfeebled. Good male help helps.
 

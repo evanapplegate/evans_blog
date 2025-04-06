@@ -1,4 +1,4 @@
-# 2060: 62 Million Old, Lonely, Broke Millennials
+# 2060: 62 million old, lonely, broke millennials
 
 Grandma and I are in a former hotel: tasteful-but-tough brown carpet, recessed 3000K lighting, exposed powder-coated white trusses over the indoor heated pool.
 
@@ -32,25 +32,26 @@ But only family can offer real "care" for the elderly that exceeds the basics of
 
 Looking to future tragedies: millennials (born between 1981 and 1996) will face the same indignities as they age, but without money *or* family. Boomers hold 9x as much wealth, Gen X’ers 5x. The median millennial turns 35 in 2023. They’re pretty much out of time.
 
+![Federal Reserve Data showing wealth distribution across generations](../images/millenials1.webp)
 
 [Federal Reserve Data](https://www.federalreserve.gov/releases/z1/dataviz/dfa/distribute/table/#quarter:119;series:Net%20worth;demographic:generation;population:all;units:levels)
 
 
 Americans in general gave up on having children, and millennials are no exception: the right side of the below chart shows "expected births per woman" sliding down towards 2018 (when millennial women were between the ages of 22 and 37.)
 
-
+![Birth data](../images/millenials2.webp)
 [CDC Birth Data](https://www.cdc.gov/mmwr/volumes/69/wr/mm6901a5.htm)
 
 
 Over the past ten years: women 25-29 had fewer kids, 30-34 about the same, 35-39 a bit more. Not a lot.
 
-
+![Birth data](../images/millenials3.webp)
 [CDC Natality Trends](https://data.cdc.gov/NCHS/NCHS-Birth-Rates-for-Females-by-Age-Group-United-S/yt7u-eiyg)
 
 
 The population of Americans age 65 - 79 is projected to increase 44% between 2020 and 2060. Final count: 62 million old millennials. 15% of the population.
 
-
+![Age data](../images/millenials4.webp)
 [Census Population Projections](https://www.census.gov/data/tables/2017/demo/popproj/2017-summary-tables.html)
 
 

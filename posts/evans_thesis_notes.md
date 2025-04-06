@@ -1,17 +1,20 @@
 # My least favorite ten thousand words
 
-To finish a cartography & GIS masters degree I had to make a map that required1) "basic command line" levels of computer literacyand2) guess at the physical
-phenomena that a grid of numbers expressing some radiometric quantity
-concerning earth's surface or atmosphere purported to relate toI
-failed, I spent like ~200 hours of work across months, emailing searching
+To finish a cartography & GIS masters degree at UW-Madison I had to make a map that required
+
+1) "Basic command line" levels of computer literacy
+
+2) A guess at the physical phenomena that a grid of numbers expressing some radiometric quantity concerning earth's surface or atmosphere purported to relate to
+
+I failed, I spent like ~200 hours of work across months, emailing, searching
 wandering around the space sciences engineering center laptop in hand. Had to
 abandon original topic re: "relationship between earth's surface brightness
 and earth's atmospheric-terrestrial energy balance," which was good,
 because I knew nothing and couldn't even make an educated guess. Gross
 scales, coarse materials, a ~3600x7200 grid of numbers was supposed to tell
-me about THE WHOLE PLANET EARTH'S exchange of photons? C'monMy
-notes file below, may you understand something called "White Sky Albedo"
-better than I did 
+me about THE WHOLE PLANET EARTH'S exchange of photons? C'mon
+
+My notes file below, may you understand something called "White Sky Albedo" better than I did 
 
 
 lmao i can’t even remember what I’m supposed to do! this shit hieroglyphics!

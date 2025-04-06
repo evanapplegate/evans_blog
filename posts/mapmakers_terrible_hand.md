@@ -1,4 +1,4 @@
-# The Mapmaker’s Terrible Hand
+# The mapmaker's terrible hand
 
 Effacing features is a rush. The "critical cartographers" have one good point they bury in recondite academese: the mapmaker has absurd power.
 

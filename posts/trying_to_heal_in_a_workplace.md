@@ -1,6 +1,4 @@
-# Trying To Heal In A Workplace
-
-## The American Hospital: Trying to Heal in Someone's Workplace
+# The American Hospital: Trying to Heal in Someone's Workplace
 
 *They’re at work right now.*
 

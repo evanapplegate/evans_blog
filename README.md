@@ -1,6 +1,6 @@
 # Evans Blog
 
-A simple flat-file blog system using Markdown files that can be deployed directly to GitHub Pages.
+A simple flat-file blog system using Markdown files that can be deployed directly to GitHub Pages. Claude wrote all this so good luck maintaining it, Evan!
 
 ## Structure
 - Markdown (.md) files in the `posts` directory contain individual blog posts
@@ -15,7 +15,7 @@ Last updated: 2025-04-05
 ## Adding New Posts
 1. Create a new Markdown file in the `posts` directory (e.g., `new-post.md`)
 2. Add your blog post content to the file using Markdown syntax
-3. Update the `posts` array in `blog.js` to include your new post
+3. Use update_posts.py to add the new post to the posts array in `blog.js`
 
 ## Adding Images
 1. Place your image files in the `images` directory
