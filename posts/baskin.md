@@ -5,7 +5,6 @@
 
 [Baskin](https://daniellebaskin.com/) is my fav commercial artist/artistic merchant. In 2019 she gave me advice on selling glowing maps, and I got to see her garage-apartment-studio out of which she sold:
 
-
 1. Pluto tapestries (New Horizons composite) run off an enormous printer
 
 1. Stunning hand-painted bicycle helmets; landscapes!

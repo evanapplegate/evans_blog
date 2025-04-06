@@ -1,9 +1,9 @@
-# The best maps lie ahead
+# The Best Maps Lie Ahead
 
 I want to see another [Turgot map](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~287244~90059510:Composite--Paris--Plan-de-Turgot?sort=pub_list_no_initialsort%2Cpub_date%2Cpub_list_no%2Cseries_no&qvq=q:turgot;sort:pub_list_no_initialsort%2Cpub_date%2Cpub_list_no%2Cseries_no;lc:RUMSEY~8~1&mi=13&trs=53) before I die. I want my grandkids to cherish a map made in the 2030s. I want some of the most beautiful examples of western material culture to live on.
 
 
-## Would anyone want this on their wall 50 years from now?
+## Would Anyone Want This on Their Wall 50 Years from Now?
 
 The worst map of 1890 looks better than 99% of today’s maps. In 1910 you could buy a 50-cent rail route pamphlet that looks better than any map you can buy today. This sucks, but it could not be otherwise; consider who makes today’s maps:
 
