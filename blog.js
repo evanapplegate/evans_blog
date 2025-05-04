@@ -1,23 +1,24 @@
 document.addEventListener('DOMContentLoaded', async () => {
   // List of posts (will be auto-generated or manually updated)
   const posts = [
-    { title: 'The Best Maps Lie Ahead', file: 'posts/best_maps_lie_ahead.md' },
-    { title: 'What I\'ve learned after 14 years of mapmaking', file: 'posts/map_tips.md' },
-    { title: 'Low-pressure sodium lamp salvage', file: 'posts/sodium.md' },
     { title: 'ML has killed “looks okay from arm\'s length” cartography', file: 'posts/ML_killed_carto.md' },
-    { title: 'The mapmaker\'s terrible hand', file: 'posts/mapmakers_terrible_hand.md' },
-    { title: 'Cartographic graduate education at the University of Wisconsin–Madison, 2014–2017', file: 'posts/grad_school.md' },
-    { title: '365 days of great ideas for your map business', file: 'posts/great_map_ideas.md' },
     { title: 'When Danielle Baskin took a romanesco broccoli to the 3D printing conf...', file: 'posts/baskin.md' },
     { title: 'The soft end of something sharp', file: 'posts/bedside_nursing.md' },
+    { title: 'The Best Maps Lie Ahead', file: 'posts/best_maps_lie_ahead.md' },
+    { title: 'Computer-mediated cartographer bestiary', file: 'posts/bestiary_part_1.md' },
     { title: 'Get me some computer rurality', file: 'posts/computer_rurality.md' },
     { title: '“COVID response” was the nuttiest event of my lifetime and I’m going to die mad about it', file: 'posts/covid.md' },
     { title: 'My least favorite ten thousand words', file: 'posts/evans_thesis_notes.md' },
     { title: 'Have you heard about our painfully loud speaker as a service?', file: 'posts/genasys.md' },
+    { title: 'Cartographic graduate education at the University of Wisconsin–Madison, 2014–2017', file: 'posts/grad_school.md' },
+    { title: '365 days of great ideas for your map business', file: 'posts/great_map_ideas.md' },
+    { title: 'What I\'ve learned during 14 years of mapmaking', file: 'posts/map_tips.md' },
+    { title: 'The mapmaker\'s terrible hand', file: 'posts/mapmakers_terrible_hand.md' },
     { title: 'More men eases eldercare', file: 'posts/men_eldercare.md' },
     { title: '2060: 62 million old, lonely, broke millennials', file: 'posts/millenials_old.md' },
     { title: 'Podcasting tips', file: 'posts/podcast_tips.md' },
     { title: 'Shoutout machine learning', file: 'posts/shoutout_ML.md' },
+    { title: 'Low-pressure sodium lamp salvage', file: 'posts/sodium.md' },
     { title: 'The American Hospital: Trying to Heal in Someone\'s Workplace', file: 'posts/trying_to_heal_in_a_workplace.md' }
   ];
   
