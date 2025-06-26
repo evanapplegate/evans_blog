@@ -17,6 +17,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     { title: 'More men eases eldercare', file: 'posts/men_eldercare.md' },
     { title: '2060: 62 million old, lonely, broke millennials', file: 'posts/millenials_old.md' },
     { title: 'Podcasting tips', file: 'posts/podcast_tips.md' },
+    { title: 'Making a public lands explorer map', file: 'posts/public_lands_map.md' },
     { title: 'Shoutout machine learning', file: 'posts/shoutout_ML.md' },
     { title: 'Low-pressure sodium lamp salvage', file: 'posts/sodium.md' },
     { title: 'The American Hospital: Trying to Heal in Someone\'s Workplace', file: 'posts/trying_to_heal_in_a_workplace.md' }
